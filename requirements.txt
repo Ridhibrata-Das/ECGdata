@@ -1,0 +1,19 @@
+# Signal Processing
+biosppy
+heartpy
+wfdb
+
+# Deep Learning
+torch
+pytorch-lightning
+monai
+
+# Explainability
+captum
+
+# Other necessary libraries (commonly used with the above)
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
